@@ -1,1 +1,1 @@
-CS 003A - Fundamentals of Computer Science II (C++) 
+Fundamentals of Computer Science II (C++) 
