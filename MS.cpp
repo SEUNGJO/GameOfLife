@@ -1,10 +1,4 @@
-/**********************************************************
-AUTHOR       : Henry Giron
-Assignment #3: Mathematics Specification
-CLASS        : CS2
-SECTION      : MW: 7:00a – 8:25p; TTH: 7:00a - 9:05a
-Due Date     : 9/25/18
-***********************************************************/
+
 #include <iostream>
 #include <string>
 #include <cmath>
